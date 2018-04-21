@@ -1,8 +1,8 @@
-# TypeMonPress
+# AICTE scraper
 
 ## Overview
 
-A Boilerplate Starter Application For Building RESTful APIs Microservice in Node.js using Express and Mongoose in TypeScript. Helps you stay productive by following best practices and standards.
+Simple Scrap the Aicte data for the aicte project 
 
 ## Getting Started
 
@@ -58,6 +58,3 @@ Universal logging library [winston](https://www.npmjs.com/package/winston) is us
 ## Contributing
 
 Contributions, questions and comments are all welcome and encouraged. For code contributions submit a pull request with unit test.
-
-## License
-This project is licensed under the [MIT License](https://github.com/xeoneux/TypeMonPress/blob/master/LICENSE)
