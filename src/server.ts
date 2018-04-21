@@ -45,7 +45,7 @@ export class Server {
     
     let route = "/api";
     if (node.env === "development") {
-      route = "/dev/api";
+      // route = "/dev/api";
       app.use(morgan("dev"));
     }
 
