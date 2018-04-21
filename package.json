@@ -12,6 +12,7 @@
     "cover": "nyc mocha test/**.ts"
   },
   "dependencies": {
+    "@types/cheerio": "^0.22.7",
     "acl": "^0.4.11",
     "bluebird": "^3.5.0",
     "body-parser": "^1.18.1",
