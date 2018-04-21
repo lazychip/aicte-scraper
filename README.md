@@ -4,6 +4,10 @@
 
 Simple Scrap the Aicte data for the aicte project 
 
+## End Points
+
+initiatives(get) = http://localhost:1234/api/aicte/initiatives
+
 ## Getting Started
 
 Clone the repo:
