@@ -1,7 +1,7 @@
 import bluebird = require("bluebird");
 import bodyParser = require("body-parser");
 import compression = require("compression");
-import connectMongo = require("connect-mongo");
+// import connectMongo = require("connect-mongo");
 import cookieParser = require("cookie-parser");
 import cors = require("cors");
 import express = require("express");
