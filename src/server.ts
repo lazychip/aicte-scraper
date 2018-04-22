@@ -34,7 +34,7 @@ export class Server {
     app.use(validator());
 
     // Session
-    const MongoStore = connectMongo(session);
+    // const MongoStore = connectMongo(session);
     app.use(
       session({
         resave: false,
